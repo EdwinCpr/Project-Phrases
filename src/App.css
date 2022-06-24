@@ -1,0 +1,40 @@
+/******************** Universal *****************/
+
+.icon-width-big {
+  font-size: 5rem;
+}
+
+.icon-width-small {
+  font-size: 1.5rem;
+  color: white;
+}
+
+.flex-icon {
+  display: flex;
+  text-align: center;
+}
+
+.text-align-right {
+  text-align: right;
+}
+
+button {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  border: 0;
+}
+
+/*************************** App **************************/
+
+.App {
+  background-color: #fff;
+  width: 40rem;
+  margin: 32vh auto;
+  box-shadow: 1rem 1rem 0.8rem rgba(0, 0, 0, 0.459);
+}
+
+.App-all {
+  margin: 2rem;
+  padding: 1rem 0rem;
+}
